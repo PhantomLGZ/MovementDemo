@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovementDemo</string>
+
+    <string name="like_view">Like</string>
+    <string name="ruler_view">Ruler</string>
+    <string name="move_view">Movement</string>
+    <string name="filp_view">Filp</string>
+</resources>

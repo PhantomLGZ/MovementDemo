@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.administrator.movementdemo.likeView.LikeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.administrator.movementdemo.likeView.LikeView
+        android:layout_margin="4dp"
+        android:id="@+id/like_view1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.example.administrator.movementdemo.likeView.LikeView
+        android:layout_margin="4dp"
+        android:id="@+id/like_view2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.example.administrator.movementdemo.likeView.LikeView
+        android:layout_margin="4dp"
+        android:id="@+id/like_view3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</com.example.administrator.movementdemo.likeView.LikeLayout>
